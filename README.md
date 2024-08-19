@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```javascript
+constructor(name, age, sex, hobbie, gitHubStatus){
+ this.name = "Gael Valadez"
+ this.age = 20
+ this.sex = "Male"
+ this.hobbie = "I like to cook and learn more recipes"
+ this.githubstatus =  "Rookie"
